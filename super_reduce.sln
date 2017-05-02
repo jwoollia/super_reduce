@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "super_reduce", "super_reduce\super_reduce.vfproj", "{7F954EBD-C62C-4928-B3C8-1EF97685DC91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F954EBD-C62C-4928-B3C8-1EF97685DC91}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F954EBD-C62C-4928-B3C8-1EF97685DC91}.Debug|Win32.Build.0 = Debug|Win32
+		{7F954EBD-C62C-4928-B3C8-1EF97685DC91}.Release|Win32.ActiveCfg = Release|Win32
+		{7F954EBD-C62C-4928-B3C8-1EF97685DC91}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
